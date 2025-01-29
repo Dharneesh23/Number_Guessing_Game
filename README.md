@@ -9,6 +9,15 @@ A simple console-based number guessing game built using Java. The player has to 
 - Limited number of attempts for the user to guess the number.
 - Option to play the game again.
 
+    ## Console Execution
+
+
+     
+
+https://github.com/user-attachments/assets/2595cc30-75d4-40a7-90ea-6b0ec4ccf2a2
+
+
+
 ## Requirements
 - Java 8 or higher.
 
